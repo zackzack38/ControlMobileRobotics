@@ -1,0 +1,14 @@
+Webots Project File version R2022a
+perspectives: 000000ff00000000fd0000000200000001000002a8000002e0fc0200000001fb0000001400540065007800740045006400690074006f00720100000015000002e00000008700ffffff0000000300000780000000eefc0100000001fb0000001a0043006f006e0073006f006c00650041006c006c0041006c006c0100000000000007800000006900ffffff000004d6000002e000000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000000fa000003da0100000002010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 3 "../../Lab 5/Lab5_R2022a/controllers/task1/task1.py" "../../Lab 2/Lab2_epuck/controllers/lab2_task1/lab2_task1.py" "../../Lab 5/Lab5_R2022a/controllers/task2/task2.py" "controllers/Lab6_task1/Lab6_task1.py" "../../Lab 3/task2/task2.py"
+consoles: Console:All:All
+renderingDevicePerspectives: e-puck:camera;1;0.820513;0;0
+renderingDevicePerspectives: e-puck:front camera;1;1.0125;0;0
+renderingDevicePerspectives: e-puck:left camera;0;3.55;0;0
+renderingDevicePerspectives: e-puck:rear camera;0;3.55;0;0
+renderingDevicePerspectives: e-puck:right camera;0;3.55;0;0
